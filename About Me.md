@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DSXianabela
+- 👋 Hi, I’m @DSXianabela, a Professional License Teacher and a Mathematics enthusiast.
 - 👀 I’m interested in data analytics, mathematics, and technologies.
 - 🌱 I’m currently self-learning data analytics and programming online 
 - 💞️ I’m looking to collaborate on projects related to data analytics, mathematics, and technologies but I am also open to work in other fields.
